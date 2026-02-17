@@ -14,11 +14,14 @@
 ---
 
 ### 🛠 Tech Stack
-<p>
-<img src="https://skillicons.dev/icons?i=python,c++,sql,mysql,aws,git,github" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,azure,c,cpp,html,css,java,js,mysql" />
 </p>
 
----
+<p align="center">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>
+
 
 ### 📊 GitHub Stats
 <p align="center">
